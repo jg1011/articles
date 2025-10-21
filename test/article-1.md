@@ -10,12 +10,12 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 
 ## Subtitle
 
-Here's an inline equation $\Sum_{k=0}^n \binom{n}{k} = 2^n$ 
+Here's an inline equation $\sum_{k=0}^n \binom{n}{k} = 2^n$ 
 
 Here's an equation (Euler Lagrange)
 
 $$
-\frac{\partial L}{partial q_i}(t, {\bf q}(t), \dot{{\bf q}}(t)) - \frac{\mathrm{d}}{\mathrm{d}t} \frac{\partial L}{\partial \dot{q}_i}(t, {\bf q}(t), \dot{{\bf q}}(t)) = 0, \quad i = 1, 2, \dots, n
+\frac{\partial L}{\partial q_i}(t, {\bf q}(t), \dot{{\bf q}}(t)) - \frac{\mathrm{d}}{\mathrm{d}t} \frac{\partial L}{\partial \dot{q}_i}(t, {\bf q}(t), \dot{{\bf q}}(t)) = 0, \quad i = 1, 2, \dots, n
 $$
 
 ### Subsubtitle
