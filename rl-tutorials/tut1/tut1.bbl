@@ -1,0 +1,32 @@
+\begin{thebibliography}{4}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Bellman(1957)]{bellman_1957_dynamic}
+Richard Bellman.
+\newblock \emph{Dynamic Programming}.
+\newblock Princeton University Press, Princeton, 1957.
+
+\bibitem[Howard(1960)]{howard_1960_dynamic}
+Ronald~A. Howard.
+\newblock Dynamic programming and markov processes.
+\newblock \emph{The MIT Press}, 1960.
+
+\bibitem[Kaelbling et~al.(1998)Kaelbling, Littman, and
+  Cassandra]{kaelbling_littman_cassandra_1998_planning}
+Leslie~Pack Kaelbling, Michael~L. Littman, and Anthony~R. Cassandra.
+\newblock Planning and acting in partially observable stochastic domains.
+\newblock \emph{Artificial Intelligence}, 101\penalty0 (1-2):\penalty0 99--134,
+  1998.
+
+\bibitem[Smallwood and Sondik(1973)]{smallwood_sondik_1973_optimal}
+Richard~D. Smallwood and Edward~J. Sondik.
+\newblock The optimal control of partially observable markov processes over a
+  finite horizon.
+\newblock \emph{Operations Research}, 21\penalty0 (5):\penalty0 1071--1088,
+  1973.
+
+\end{thebibliography}
